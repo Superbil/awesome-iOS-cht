@@ -1,4 +1,6 @@
 #+TITLE: iOS 開發資源
+#+AUTHOR: Superbil
+#+LANGUAGE: zh-tw
 
 這裡面的簡單整理網路上的一些資源，供查詢用
 
