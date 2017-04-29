@@ -6,28 +6,29 @@
 
 - [[https://www.cocoacontrols.com/][Cocoa Controls]]
 
-好用的元件清單
+  好用的元件清單
 
 - [[http://capptivate.co/][Capptivate.co]]
 
-顯示 App 做的動畫效果
+  顯示 App 做的動畫效果
 
 - [[http://revealapp.com/][Reveal App]]
 
-顯示 View 的階層，並且可即時更改
+  顯示 View 的階層，並且可即時更改
 
 - [[http://speckyboy.com/2013/09/20/free-ios-7-gui-kits-templates/][Free iOS 7 GUI Kits and Templates]]
+
 - [[https://github.com/TopicSo/RAMCollectionViewFlemishBondLayout][TopicSo/RAMCollectionViewFlemishBondLayout]]
 
-把一些 cell group 起來的 layout
+  把一些 cell group 起來的 layout
 
 - [[http://www.pixate.com/][Pixate]] [[https://github.com/Pixate/pixate-freestyle-ios][Pixate/pixate-freestyle-ios]] at github
 
-寫 CSS 來對介面做 layout
+  寫 CSS 來對介面做 layout
 
 - [[https://github.com/domesticcatsoftware/DCIntrospect][DCIntrospect]]
 
-runtime 調整 UIView 的工具
+  runtime 調整 UIView 的工具
 
 - 自定義 CardView [[http://vpdn.github.io/articles/iOS7-card-view/][A closer look at the iOS7 App Switcher -- Vinh Phuc Dinh]]
 
@@ -35,11 +36,11 @@ runtime 調整 UIView 的工具
 
 - [[http://facebook.github.io/origami/][Origami - Design prototyping with Quartz Composer]]
 
-Quick prototyping for Quartz
+  Quick prototyping for Quartz
 
 - [[https://github.com/facebook/Shimmer][facebook/Shimmer]]
 
-閃光特效效果，使用 CALayer mask 做出來的
+  閃光特效效果，使用 CALayer mask 做出來的
 
 - [[https://medium.com/ios-apprentice/43e943e6627][9 Time-Saving iOS 7 Libraries --- iOS Apprentice --- Medium]]
 
@@ -81,7 +82,7 @@ Quick prototyping for Quartz
 
   - [[https://github.com/Asich/AMTumblrHud][Asich/AMTumblrHud]]
 
--  [[https://github.com/linkedin/Hakawai/][linkedin/Hakawai]]
+- [[https://github.com/linkedin/Hakawai/][linkedin/Hakawai]]
 
    A powerful, extensible UITextView.
 
@@ -176,7 +177,7 @@ Quick prototyping for Quartz
 
 ** *Method Swizzling*
 
--  [[https://github.com/rentzsch/jrswizzle][rentzsch/jrswizzle]]
+- [[https://github.com/rentzsch/jrswizzle][rentzsch/jrswizzle]]
 
 ** NSNull
 
