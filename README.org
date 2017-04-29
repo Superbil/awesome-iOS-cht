@@ -1,0 +1,440 @@
+#+TITLE: iOS 開發資源
+
+這裡面的簡單整理網路上的一些資源，供查詢用
+
+* 介面
+
+- [[https://www.cocoacontrols.com/][Cocoa Controls]]
+
+好用的元件清單
+
+- [[http://capptivate.co/][Capptivate.co]]
+
+顯示 App 做的動畫效果
+
+- [[http://revealapp.com/][Reveal App]]
+
+顯示 View 的階層，並且可即時更改
+
+- [[http://speckyboy.com/2013/09/20/free-ios-7-gui-kits-templates/][Free iOS 7 GUI Kits and Templates]]
+- [[https://github.com/TopicSo/RAMCollectionViewFlemishBondLayout][TopicSo/RAMCollectionViewFlemishBondLayout]]
+
+把一些 cell group 起來的 layout
+
+- [[http://www.pixate.com/][Pixate]] [[https://github.com/Pixate/pixate-freestyle-ios][Pixate/pixate-freestyle-ios]] at github
+
+寫 CSS 來對介面做 layout
+
+- [[https://github.com/domesticcatsoftware/DCIntrospect][DCIntrospect]]
+
+runtime 調整 UIView 的工具
+
+- 自定義 CardView [[http://vpdn.github.io/articles/iOS7-card-view/][A closer look at the iOS7 App Switcher -- Vinh Phuc Dinh]]
+
+  - [[https://github.com/vpdn/MMAppSwitcher][vpdn/MMAppSwitcher]]
+
+- [[http://facebook.github.io/origami/][Origami - Design prototyping with Quartz Composer]]
+
+Quick prototyping for Quartz
+
+- [[https://github.com/facebook/Shimmer][facebook/Shimmer]]
+
+閃光特效效果，使用 CALayer mask 做出來的
+
+- [[https://medium.com/ios-apprentice/43e943e6627][9 Time-Saving iOS 7 Libraries --- iOS Apprentice --- Medium]]
+
+  - *[[https://github.com/Citrrus/BlurryModalSegue][BlurryModalSegue]]*
+  - *[[https://github.com/CanvasPod/Canvas][Canvas]]*
+  - [[https://github.com/m1entus/MZFormSheetController][MZFormSheetController]]
+  - *[[https://github.com/michaeljbishop/NGAParallaxMotion][NGAParallaxMotion]]*
+  - *[[https://github.com/michaeltyson/TPKeyboardAvoiding][TPKeyboardAvoiding]]*
+  - *[[https://github.com/mattt/TTTAttributedLabel][TTTAttributedLabel]]*
+  - *[[https://github.com/u10int/URBMediaFocusViewController][URBMediaFocusViewController]]*
+  - *[[https://github.com/ColinEberhardt/VCTransitionsLibrary][VCTransitionsLibrary]]*
+  - *[[https://github.com/jamztang/CSStickyHeaderFlowLayout][CSStickyHeaderFlowLayout]]*
+
+- 地圖相關
+
+  - [[https://github.com/applidium/ADClusterMapView][applidium/ADClusterMapView]]
+
+- [[https://github.com/IFTTT/JazzHands][IFTTT/JazzHands]]
+
+  過場元件移動效果
+
+- [[https://github.com/schneiderandre/popping][schneiderandre/popping]]
+
+  一些漂亮的過場動畫
+
+- [[https://github.com/Flipboard/FLEX][Flipboard/FLEX]]
+
+  在手機上即時 Debug (change View)
+
+- [[https://github.com/mamaral/MAActionCell][mamaral/MAActionCell]]
+
+  quickly table view cell to use
+
+- 進度條
+
+  - [[https://github.com/mrackwitz/MRProgress][mrackwitz/MRProgress]]
+
+  iOS 7 style 的進度條
+
+  - [[https://github.com/Asich/AMTumblrHud][Asich/AMTumblrHud]]
+
+-  [[https://github.com/linkedin/Hakawai/][linkedin/Hakawai]]
+
+   A powerful, extensible UITextView.
+
+- [[http://nshipster.com/uiactivityviewcontroller/][UIActivityViewController - NSHipster]]
+
+  - [[http://getnotebox.com/developer/uiactivityviewcontroller-ios-8/][Share Extension, UIActivityViewController, and UX Concerns in iOS 8]]
+
+  如何使用 Share 的功能
+
+- [[https://github.com/jamztang/JTGestureBasedTableViewDemo][jamztang/JTGestureBasedTableViewDemo]]
+
+  手勢為基礎的 TableView
+
+** *Cocos2d*
+
+- [[http://aoxuis.me/posts/2013/12/02/newbie-faq-about-quick-cocos2d-x][关于quick-cocos2d-x开发的热(yue)门(jing)问题 « XA技术不宅]]
+- [[http://aoxuis.me/posts/2013/12/02/newbie-faq-about-quick-cocos2d-x][关于quick-cocos2d-x开发的热(yue)门(jing)问题 « XA技术不宅]]
+
+** *字型*
+
+- [[https://developer.apple.com/Library/ios/samplecode/DownloadFont/Listings/DownloadFont_ViewController_m.html#//apple_ref/doc/uid/DTS40013404-DownloadFont_ViewController_m-DontLinkElementID_6][DownloadFont: DownloadFont/ViewController.m]]
+
+  下載字型到 iOS 中的方法
+
+** 快速Prototype*
+
+- [[https://popapp.in/][POP - Prototyping on Paper | iPhone App Prototyping Made Easy]]
+- [[https://www.flinto.com/][Flinto -- iPhone, iPad and Android Prototyping]]
+- [[http://bohemiancoding.com/sketch/][Bohemian Coding - Sketch]]
+
+** *大圖顯示*
+
+- 使用 [[https://developer.apple.com/library/ios/documentation/GraphicsImaging/Reference/CATiledLayer_class/Introduction/Introduction.html][CATiledLayer Class Reference]] 來繪圖
+
+** *Javascript Core*
+
+- [[https://github.com/marcuswestin/WebViewJavascriptBridge][marcuswestin/WebViewJavascriptBridge]]
+
+  用 Javascript 動態建
+
+** *設定介面*
+
+- [[https://github.com/escoz/QuickDialog][escoz/QuickDialog]]
+- [[https://github.com/xmartlabs/XLForm][xmartlabs/XLForm]]
+
+** *Autolayout*
+
+- [[https://github.com/floriankrueger/AutoLayoutKit][AutoLayoutKit]]
+
+  A descriptive way to create NSLayoutConstraints for AutoLayout in iOS 6.0+
+
+- [[https://github.com/smileyborg/PureLayout][smileyborg/PureLayout]]
+
+  Quick autolayout for iOS and Mac OSX
+
+- [[https://github.com/SnapKit/Masonry][SnapKit/Masonry]]
+
+  Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX
+   Auto Layout
+
+** *UI 懶人包*
+
+- [[https://github.com/cjwirth/awesome-ios-ui][cjwirth/awesome-ios-ui]]
+
+* 流程
+
+- [[https://github.com/ReactiveCocoa/ReactiveCocoa][Reactive]]
+
+  Objective-C framework for [[http://en.wikipedia.org/wiki/Functional_reactive_programming][Functional Reactive Programming]]. It provides APIs for *composing and transforming streams of values*.
+
+  - 函數響應式編程 [[http://www.jdon.com/45581][中文簡介]]
+  - [[http://www.teehanlax.com/blog/getting-started-with-reactivecocoa/][Getting Started with ReactiveCocoa | Teehan+Lax]]
+  - [[http://www.teehanlax.com/blog/reactivecocoa/][Functional Reactive Programming on iOS with ReactiveCocoa | Teehan+Lax]]
+
+- [[http://www.slideshare.net/robby_brown/grand-central-dispatch-design-patterns][Grand Central Dispatch Design Patterns]]
+
+- [[https://github.com/pandamonia/BlocksKit][pandamonia/BlocksKit]]
+
+  讓本來不援援 block 的 object ，使用 block 快速存取
+
+- [[https://github.com/facebook/KVOController][facebook/KVOController]]
+
+  Simple, modern, thread-safe key-value observing for iOS and OS X.
+
+- [[https://github.com/BoltsFramework/Bolts-iOS][BoltsFramework/Bolts-iOS]]
+
+  解決 callback hell，也可以讓流程變的比較容易維護
+
+- [[https://github.com/steipete/Aspects][steipete/Aspects]]
+
+  直接對 selector hook, 可以在不改本來程式碼的情況下加上自定義的行為，可以是 before/instead/after
+
+** *Method Swizzling*
+
+-  [[https://github.com/rentzsch/jrswizzle][rentzsch/jrswizzle]]
+
+** NSNull
+
+- [[https://github.com/nicklockwood/NullSafe][nicklockwood/NullSafe]]
+
+  修正 NSNull 呼叫到不存在的 method 的時候會爆掉的問題
+
+* 資料庫
+
+- Cocoa Dev Central: Core Data Class Overview [[http://cocoadevcentral.com/articles/000086.php][http://cocoadevcentral.com/articles/000086.php]]
+
+- [[https://github.com/davedelong/CHCSVParser][davedelong/CHCSVParser]]
+
+  CSV parser & writer
+
+- [[http://realm.io/][Realm: a mobile database that replaces Core Data & SQLite]]
+- [[https://github.com/ccgus/fmdb][FMDB]]
+- https://github.com/magicalpanda/MagicalRecord
+- https://github.com/facebookarchive/three20
+- [[https://github.com/icanzilb/JSONModel][JSONModel]]
+
+  快速接 JSON API
+
+- [[https://github.com/Mantle/Mantle][Mantle]]
+
+  JSON Model framework for Cocoa and Cocoa Touch
+
+* 網路連線
+
+- [[https://github.com/AFNetworking/AFNetworking][AFNetworking]]
+
+  - [[https://github.com/Superbil/AFCSVParserResponseSerializer][Superbil/AFCSVParserResponseSerializer]]
+
+    處理 CSV 檔案 for 2.x +
+
+* 多國語系
+
+- [[https://developer.apple.com/library/ios/documentation/MacOSX/Conceptual/BPInternational/MaintaingYourOwnStringsFiles/MaintaingYourOwnStringsFiles.html][Managing Strings Files Yourself]]
+
+#+BEGIN_SRC shell
+ genstrings -o Base.lproj *.m
+#+END_SRC
+
+  AppleGlot 來管理
+
+- [[https://developer.apple.com/library/ios/documentation/MacOSX/Conceptual/BPInternational/TestingYourInternationalApp/TestingYourInternationalApp.html#//apple_ref/doc/uid/10000171i-CH7-SW2][Testing Your Internationalized App]]
+
+  在 XCode 裡面加入 -AppleLanguages (zh-Hant) 來測試台灣正體
+
+-  [[http://www.oneskyapp.com/][OneSky]]
+
+  線上翻譯比較
+
+* 美工
+
+- 免費的美工圖
+
+  - [[http://cloudcastlegroup.com/design/basiliq][Basiliq by Cloud  Castle]]
+  - [[https://github.com/google/material-design-icons][google/material-design-icons]]
+  - [[http://www.flaticon.com/][Free vector icons]]
+
+- 切圖
+
+  - [[http://akanelee.logdown.com/posts/177345-favorite-diagram-artifact-slicy][愛用切圖神器：Slicy « 嫁給 RD 的 UI Designer]]
+  - [[http://akanelee.logdown.com/posts/177177-free-diagram-artifact-cut][免費切圖神器：Cut&Slice me « 嫁給 RD 的 UI Designer]]
+  - [[http://www.tempestvision.com/psdtoxcode/][PSDtoXcode - The One Stop Shop for PSD to Xcode Conversion]]
+
+- 配色
+
+  - [[https://kuler.adobe.com/create/color-wheel/][Color wheel]]
+
+- 範本
+
+  - [[https://developer.apple.com//app-store/marketing/guidelines/#images][App Store Marketing Guidelines - Apple Developer]]
+  - [[http://robbiepearce.com/devices][Robbie Pearce | iOS Devices for Sketch.app]]
+
+- 介面
+
+  - [[http://www.mobile-patterns.com/][Mobile Patterns]]
+  - App 介面圖庫
+
+* 測試
+
+- [[https://github.com/specta/specta][specta]]
+
+  RSpec-like
+
+- [[https://testflightapp.com/][TestFlight » Beta Testing On The Fly]]
+
+  測試版給人測試使用的管理介面
+
+- [[http://www.appsee.com/][Appsee]]
+
+  重新顯示使用者使用的過程
+
+- [[https://www.plcrashreporter.org/][PLCrashReporter - In-process CrashReporter framework for iOS and Mac OS X]]
+
+  抓到 crash report
+
+- [[https://github.com/mneorr/XCPretty][mneorr/XCPretty]]
+
+  非常快速的 build 工具，只是把 xcodebuild 包裝過
+
+- [[https://ship.io/][Continuous Integration for Mobile | Ship.io]]
+- [[http://ocmock.org/][OCMock]]
+
+  快速提供測試資料
+
+* Protype tools
+
+-  [[http://www.pixate.com/][The Next Generation of Mobile Interaction Design]]
+-  [[https://www.flinto.com/][Flinto -- iPhone, iPad and Android Prototyping]]
+-  [[https://zeplin.io/][Zeplin]]
+
+* 分析
+
+- [[http://www.flurry.com/][Flurry]]
+
+  分析使用者使用的情境及 crash report
+
+- [[http://hockeyapp.net/features/][HockeyApp - The Platform for Your Apps]]
+- [[https://try.crashlytics.com/][Crashlytics]]
+
+* 網誌 & RSS & Web Site
+
+- [[http://cocoaheads.tw/developer-resources/][Cocoahead 整理的台灣 App 開發資源]]
+
+* 聚會
+
+-  [[http://cocoaheads.tw/%5D%5D][cocoahead.tw]]
+
+* ObjC 教學
+
+- [[http://learnxinyminutes.com/docs/objective-c/][Learn Objective-C in Y Minutes]]
+
+  最基礎的 Objective-C 教學
+
+- [[http://www.objc.io/][objc.io]]
+
+  整理 objc 的技術網站
+
+- [[https://github.com/zonble/Cocoa23/blob/master/Cocoa23/selector.rst][selector.rst at master · zonble/Cocoa23]]
+
+  selector 這篇介紹，objc 到底是怎麼實作的
+
+* iOS 教學
+
+- [[https://github.com/zonble/Cocoa23/blob/master/Cocoa23/category.rst][category.rst at master · zonble/Cocoa23]]
+
+  category 簡介，裡面有說明到 UIButton 事實上是一個 factory
+
+- [[https://github.com/zonble/Cocoa23/blob/master/Cocoa23/delegate.rst][delegate.rst at master · zonble/Cocoa23]]
+
+  delegate 說明，裡面有講到 iOS 在使用 delegate 的一些注意事項
+
+- [[https://developer.apple.com/library/ios/referencelibrary/GettingStarted/RoadMapiOSCh/chapters/Introduction.html#//apple_ref/doc/uid/TP40012668][马上着手开发 iOS 应用程序：介绍]]
+
+  官方基教學文件
+
+- WWDC 影片
+- [[http://sam.roon.io/ios-resources][iOS Resources --- Sam Soffes]]
+- [[http://ashfurrow.com/blog/structuring-modern-objective-c][Structuring Modern Objective-C]]
+
+  一些技巧讓程式碼更好讀，而且避免一些問題
+
+- [[http://jwilling.com/osx-animations][A short guide to OS X animations // Jonathan's Musings]]
+
+* 範例程式
+
+- [[https://github.com/TeehanLax/Upcoming][TeehanLax/Upcoming]]
+
+  含有完整程式碼的iOS專案，使用了ReactiveCocoa
+
+- [[http://spin.atomicobject.com/2014/02/03/objective-c-delegate-pattern/][Replacing the Objective-C "Delegate Pattern" with ReactiveCocoa]]
+
+  使用 ReactiveCocoa 來實作 UISearchBar 的流程
+
+* 技術文件
+
+- [[https://developer.apple.com/library/mac/documentation/DeveloperTools/Conceptual/WhatsNewXcode/Articles/xcode_4_4.html][What's New in Xcode: New Features in Xcode 4.4]]
+- Effective Objective-C 2.0 中文版 [書]
+
+   一些基本觀念整理，為什麼 API 會這樣設計之類的原理
+
+- [[http://agiletortoise.com/blog/2014/02/28/mimic-x-callback-url-in-mobile-safari/][Mimic Google Chrome's X-callback-url Support in Mobile Safari]]
+
+  在 safari 中使用 back 回到 App 的方式
+
+- [[http://benscheirman.com/2013/08/the-ios-developers-toolbelt/][75  Essential Tools for iOS Developers - Ben Scheirman]]
+
+   - [[http://www.tuicool.com/articles/FBnyEj][iOS 开发者必知的 75 个工具 - 推酷]]
+
+- [[http://blog.csdn.net/yiyaaixuexi/article/category/1302847][【iOS 安全攻防】- 念茜的博客 - 博客频道 - CSDN.NET]]
+
+* iOS7 開發指南
+
+- [[http://readlists.com/f6a95991/][iOS 7 articles from Teehan+Lax - Readlists]]
+- [[http://www.appcoda.com/customize-navigation-status-bar-ios-7/][iOS 7 Programming Tips: Customize Navigation Bar and Status Bar]]
+- [[http://ivomynttinen.com/blog/the-ios-7-design-cheat-sheet/][The iOS 7 Design Cheat Sheet - Ivo Mynttinen / User Interface Designer]]
+- [[https://medium.com/ios-apprentice/dark-magic-for-debugging-your-ios-app-bc76f237be21][Dark Magic for Debugging your iOS app --- iOS Apprentice --- Medium]]
+- [[http://isux.tencent.com/ios8-human-interface-guidelines.html][ISUX转译 iOS 8人机界面指南（一）：UI设计基础-腾讯ISUX -- 社交用户体验设计 -- Better Experience Through Design]]
+- [[http://onevcat.com/2014/07/ios-ui-unique/][WWDC 2014 Session 笔记 - iOS 界面开发的大一统]]
+- [[http://iosdesign.ivomynttinen.com/][The iOS Design Guidelines - Ivo Mynttinen / User Interface Designer]]
+
+* 工具
+
+- [[https://github.com/barrettj/CodePilot][barrettj/CodePilot]]
+
+  快速在 XCode 中切換檔案或是 method
+
+- [[http://www.hopperapp.com/][Hopper]] $
+
+ 反組譯工具
+
+- [[http://objclean.com/mac.php][objClean]]
+
+  coding style 檢查工具 9.99 鎂
+
+- [[http://ios.devtools.me/][iOS Dev Tools]]
+
+  工具清單
+
+- [[https://github.com/facebook/chisel][facebook/chisel]]
+
+  lldb commands use for debugging iOS
+
+- [[http://apps.chbeer.de/jack/][Jack -- iTunes Connect App Manager]]
+
+  管理 iTunes Connect 的工具
+
+- [[http://simpholders.com/][SimPholders2]]
+
+  快速開啟在模擬器的App
+
+- [[http://benscheirman.com/2013/08/the-ios-developers-toolbelt/][75 Essential Tools for iOS Developers - Ben Scheirman]]
+
+ 工具清單
+
+- [[http://nomad-cli.com/][Nomad - World-Class Command Line Utilities For iOS Development]]
+
+  一整套的 CLI tools
+
+- [[http://fastlane.tools/][fastlane - iOS Automation for Continuous Delivery]]
+
+  做好的一整套 tools
+
+- [[http://kfi-apps.com/plugins/ipaql/][CocoaDeveloper Quicklook Plugin]]
+
+ A Quicklook Plugin for previewing application and provision information.
+
+- [[https://github.com/krzysztofzablocki/KZPlayground][krzysztofzablocki/KZPlayground]]
+
+  Playground for Obj-C
+
+* AB Test
+
+- [[https://hackpad.com/AB-Testing-tool-survey-lrceGDafMcb][A/B Testing tool survey - hackpad.com]]
+
+* 奇妙應用
+
+- [[http://reality.hk/2014/01/12/building-a-ios-ruby-repl/][Building a iOS Ruby REPL and Opal for iOS]]
