@@ -438,3 +438,8 @@ Quick prototyping for Quartz
 * 奇妙應用
 
 - [[http://reality.hk/2014/01/12/building-a-ios-ruby-repl/][Building a iOS Ruby REPL and Opal for iOS]]
+
+
+* 貢獻
+
+  這個清單是我自己平常用來查詢用的，若你覺得有什麼好的可以送 Pull-request 給我，或是直接找我 @superbil
