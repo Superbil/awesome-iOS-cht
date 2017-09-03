@@ -132,6 +132,9 @@
 ** *設定介面*
 
 - [[https://github.com/escoz/QuickDialog][escoz/QuickDialog]]
+
+  這套沒在維護了
+
 - [[https://github.com/xmartlabs/XLForm][xmartlabs/XLForm]]
 
 ** *Autolayout*
@@ -165,7 +168,7 @@
 
 - [[http://www.slideshare.net/robby_brown/grand-central-dispatch-design-patterns][Grand Central Dispatch Design Patterns]]
 
-- [[https://github.com/pandamonia/BlocksKit][pandamonia/BlocksKit]]
+- [[https://github.com/BlocksKit/BlocksKit][BlocksKit]]
 
   讓本來不援援 block 的 object ，使用 block 快速存取
 
