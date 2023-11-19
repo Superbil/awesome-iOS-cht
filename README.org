@@ -105,7 +105,6 @@
 ** *Cocos2d*
 
 - [[http://aoxuis.me/posts/2013/12/02/newbie-faq-about-quick-cocos2d-x][关于quick-cocos2d-x开发的热(yue)门(jing)问题 « XA技术不宅]]
-- [[http://aoxuis.me/posts/2013/12/02/newbie-faq-about-quick-cocos2d-x][关于quick-cocos2d-x开发的热(yue)门(jing)问题 « XA技术不宅]]
 
 ** *字型*
 
